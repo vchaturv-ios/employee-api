@@ -10,7 +10,7 @@ public class EmployeeController {
 
     @GetMapping("/")
     public String greet() {
-        return "Welcome to Employee API";
+        return "Welcome to Employee API test";
     }
 
 }
